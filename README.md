@@ -1,4 +1,4 @@
-# SP-1 Stem WAV Converter
+# SP-1 Stem Converter
 
 Convert a song into an 8-channel, 24-bit, 48 kHz WAV for preparing stems to import to the Teenage Engineering SP-1. Import can be done with Solderless Stemloader: https://solderless.engineering/stemloader
 
