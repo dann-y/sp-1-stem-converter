@@ -1,0 +1,23 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# macOS
+.DS_Store
+
+# Audio inputs and generated outputs
+*.wav
+*.mp3
+*.flac
+*.aiff
+*.aif
+*.m4a
+*.ogg
+*.zip
+
+# Stem/conversion output folders
+converted*/
+*_stems/
+separated/
+tmp/

@@ -1,0 +1,5 @@
+demucs
+soundfile
+numpy
+soxr
+aubio
